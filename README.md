@@ -12,12 +12,9 @@ Then we convert the obtained data to a Data Frame which we can use to create sca
 * Latitude v Cloudiness
 * Latitude v Wind Speed
 
-Lastly, the results will be exported to a CSV file.
+As the data is read in during the API call, the data will be written line by line to a text file to show which cities are chosen randomly. Lastly, the results related to the city's weather information will be exported to a CSV file.
 
 ## Findings & Results
-
-### List of API Calls
-![City_API_Retrieval_List](Images/City_API_Retrieval_List.png)
 
 ### City Data
 ![City_Data_Frame](Images/City_Data_Frame.png)

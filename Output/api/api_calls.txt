@@ -1,0 +1,647 @@
+Beginning Data Retrieval
+---------------------------------------------------
+Retrieving city and weather information with index 0 and city name taolanaro.
+Missing field or result... skipping.
+Retrieving city and weather information with index 1 and city name bubaque.
+Retrieving city and weather information with index 2 and city name cherdakly.
+Retrieving city and weather information with index 3 and city name mataura.
+Retrieving city and weather information with index 4 and city name port alfred.
+Retrieving city and weather information with index 5 and city name pangnirtung.
+Retrieving city and weather information with index 6 and city name leningradskiy.
+Retrieving city and weather information with index 7 and city name cape town.
+Retrieving city and weather information with index 8 and city name macheng.
+Retrieving city and weather information with index 9 and city name cherskiy.
+Retrieving city and weather information with index 10 and city name yulara.
+Retrieving city and weather information with index 11 and city name mabaruma.
+Retrieving city and weather information with index 12 and city name gravdal.
+Retrieving city and weather information with index 13 and city name villanueva.
+Retrieving city and weather information with index 14 and city name quatre cocos.
+Retrieving city and weather information with index 15 and city name lebu.
+Retrieving city and weather information with index 16 and city name hermanus.
+Retrieving city and weather information with index 17 and city name qaanaaq.
+Retrieving city and weather information with index 18 and city name colon.
+Retrieving city and weather information with index 19 and city name punta arenas.
+Retrieving city and weather information with index 20 and city name pevek.
+Retrieving city and weather information with index 21 and city name gamba.
+Retrieving city and weather information with index 22 and city name albany.
+Retrieving city and weather information with index 23 and city name havoysund.
+Retrieving city and weather information with index 24 and city name attawapiskat.
+Missing field or result... skipping.
+Retrieving city and weather information with index 25 and city name bonthe.
+Retrieving city and weather information with index 26 and city name kapaa.
+Retrieving city and weather information with index 27 and city name faanui.
+Retrieving city and weather information with index 28 and city name cockburn harbour.
+Missing field or result... skipping.
+Retrieving city and weather information with index 29 and city name rikitea.
+Retrieving city and weather information with index 30 and city name ushuaia.
+Retrieving city and weather information with index 31 and city name katsuura.
+Retrieving city and weather information with index 32 and city name dunedin.
+Retrieving city and weather information with index 33 and city name butaritari.
+Retrieving city and weather information with index 34 and city name khonuu.
+Missing field or result... skipping.
+Retrieving city and weather information with index 35 and city name saldanha.
+Retrieving city and weather information with index 36 and city name grindavik.
+Retrieving city and weather information with index 37 and city name hobart.
+Retrieving city and weather information with index 38 and city name wairoa.
+Retrieving city and weather information with index 39 and city name mbala.
+Retrieving city and weather information with index 40 and city name kahului.
+Retrieving city and weather information with index 41 and city name lompoc.
+Retrieving city and weather information with index 42 and city name jamestown.
+Retrieving city and weather information with index 43 and city name primorsk.
+Retrieving city and weather information with index 44 and city name kamenskoye.
+Missing field or result... skipping.
+Retrieving city and weather information with index 45 and city name nikolskoye.
+Retrieving city and weather information with index 46 and city name balaipungut.
+Retrieving city and weather information with index 47 and city name barra do garcas.
+Retrieving city and weather information with index 48 and city name guerrero negro.
+Retrieving city and weather information with index 49 and city name aykhal.
+Retrieving city and weather information with index 50 and city name sarangani.
+Retrieving city and weather information with index 51 and city name vao.
+Retrieving city and weather information with index 52 and city name san carlos de bariloche.
+Retrieving city and weather information with index 53 and city name sitka.
+Retrieving city and weather information with index 54 and city name udachnyy.
+Retrieving city and weather information with index 55 and city name limon.
+Retrieving city and weather information with index 56 and city name northam.
+Retrieving city and weather information with index 57 and city name kaitangata.
+Retrieving city and weather information with index 58 and city name mackay.
+Retrieving city and weather information with index 59 and city name busselton.
+Retrieving city and weather information with index 60 and city name saint-philippe.
+Retrieving city and weather information with index 61 and city name tapaua.
+Missing field or result... skipping.
+Retrieving city and weather information with index 62 and city name gat.
+Retrieving city and weather information with index 63 and city name tiksi.
+Retrieving city and weather information with index 64 and city name new norfolk.
+Retrieving city and weather information with index 65 and city name sinkat.
+Missing field or result... skipping.
+Retrieving city and weather information with index 66 and city name barrow.
+Retrieving city and weather information with index 67 and city name ilulissat.
+Retrieving city and weather information with index 68 and city name atuona.
+Retrieving city and weather information with index 69 and city name mount isa.
+Retrieving city and weather information with index 70 and city name padang.
+Retrieving city and weather information with index 71 and city name norman wells.
+Retrieving city and weather information with index 72 and city name kruisfontein.
+Retrieving city and weather information with index 73 and city name mar del plata.
+Retrieving city and weather information with index 74 and city name fairbanks.
+Retrieving city and weather information with index 75 and city name cheremukhovo.
+Retrieving city and weather information with index 76 and city name berlevag.
+Retrieving city and weather information with index 77 and city name castro.
+Retrieving city and weather information with index 78 and city name georgetown.
+Retrieving city and weather information with index 79 and city name matamoros.
+Retrieving city and weather information with index 80 and city name illoqqortoormiut.
+Missing field or result... skipping.
+Retrieving city and weather information with index 81 and city name souillac.
+Retrieving city and weather information with index 82 and city name hilo.
+Retrieving city and weather information with index 83 and city name gwadar.
+Retrieving city and weather information with index 84 and city name nanortalik.
+Retrieving city and weather information with index 85 and city name kalabo.
+Retrieving city and weather information with index 86 and city name necochea.
+Retrieving city and weather information with index 87 and city name bredasdorp.
+Retrieving city and weather information with index 88 and city name atar.
+Retrieving city and weather information with index 89 and city name neiafu.
+Retrieving city and weather information with index 90 and city name palabuhanratu.
+Missing field or result... skipping.
+Retrieving city and weather information with index 91 and city name manta.
+Retrieving city and weather information with index 92 and city name grand river south east.
+Missing field or result... skipping.
+Retrieving city and weather information with index 93 and city name karaton.
+Retrieving city and weather information with index 94 and city name safaqis.
+Missing field or result... skipping.
+Retrieving city and weather information with index 95 and city name cairns.
+Retrieving city and weather information with index 96 and city name vaini.
+Retrieving city and weather information with index 97 and city name avarua.
+Retrieving city and weather information with index 98 and city name beringovskiy.
+Retrieving city and weather information with index 99 and city name abilene.
+Retrieving city and weather information with index 100 and city name aguimes.
+Retrieving city and weather information with index 101 and city name florianopolis.
+Retrieving city and weather information with index 102 and city name luderitz.
+Retrieving city and weather information with index 103 and city name itoman.
+Retrieving city and weather information with index 104 and city name ormara.
+Retrieving city and weather information with index 105 and city name valparaiso.
+Retrieving city and weather information with index 106 and city name cap malheureux.
+Retrieving city and weather information with index 107 and city name ponta do sol.
+Retrieving city and weather information with index 108 and city name tuatapere.
+Retrieving city and weather information with index 109 and city name outjo.
+Retrieving city and weather information with index 110 and city name serpa.
+Retrieving city and weather information with index 111 and city name samusu.
+Missing field or result... skipping.
+Retrieving city and weather information with index 112 and city name ransang.
+Missing field or result... skipping.
+Retrieving city and weather information with index 113 and city name flinders.
+Retrieving city and weather information with index 114 and city name arraial do cabo.
+Retrieving city and weather information with index 115 and city name belushya guba.
+Missing field or result... skipping.
+Retrieving city and weather information with index 116 and city name hovd.
+Retrieving city and weather information with index 117 and city name yellowknife.
+Retrieving city and weather information with index 118 and city name leshukonskoye.
+Retrieving city and weather information with index 119 and city name khormuj.
+Missing field or result... skipping.
+Retrieving city and weather information with index 120 and city name puerto ayora.
+Retrieving city and weather information with index 121 and city name airai.
+Retrieving city and weather information with index 122 and city name autazes.
+Retrieving city and weather information with index 123 and city name uige.
+Retrieving city and weather information with index 124 and city name nelson bay.
+Retrieving city and weather information with index 125 and city name margate.
+Retrieving city and weather information with index 126 and city name kayerkan.
+Retrieving city and weather information with index 127 and city name winnemucca.
+Retrieving city and weather information with index 128 and city name coquimbo.
+Retrieving city and weather information with index 129 and city name kabalo.
+Retrieving city and weather information with index 130 and city name henties bay.
+Retrieving city and weather information with index 131 and city name bada.
+Retrieving city and weather information with index 132 and city name stepnoye.
+Retrieving city and weather information with index 133 and city name tasiilaq.
+Retrieving city and weather information with index 134 and city name port elizabeth.
+Retrieving city and weather information with index 135 and city name narsaq.
+Retrieving city and weather information with index 136 and city name ribeira grande.
+Retrieving city and weather information with index 137 and city name isla vista.
+Retrieving city and weather information with index 138 and city name constitucion.
+Retrieving city and weather information with index 139 and city name mandalgovi.
+Retrieving city and weather information with index 140 and city name ancud.
+Retrieving city and weather information with index 141 and city name vestmannaeyjar.
+Retrieving city and weather information with index 142 and city name hithadhoo.
+Retrieving city and weather information with index 143 and city name te anau.
+Retrieving city and weather information with index 144 and city name mahebourg.
+Retrieving city and weather information with index 145 and city name tsaratanana.
+Retrieving city and weather information with index 146 and city name arlit.
+Retrieving city and weather information with index 147 and city name saint george.
+Retrieving city and weather information with index 148 and city name adrar.
+Retrieving city and weather information with index 149 and city name bambous virieux.
+Retrieving city and weather information with index 150 and city name nizhneyansk.
+Missing field or result... skipping.
+Retrieving city and weather information with index 151 and city name khatanga.
+Retrieving city and weather information with index 152 and city name bluff.
+Retrieving city and weather information with index 153 and city name cabo san lucas.
+Retrieving city and weather information with index 154 and city name laurel.
+Retrieving city and weather information with index 155 and city name kiunga.
+Retrieving city and weather information with index 156 and city name taltal.
+Retrieving city and weather information with index 157 and city name dikson.
+Retrieving city and weather information with index 158 and city name borovichi.
+Retrieving city and weather information with index 159 and city name tura.
+Retrieving city and weather information with index 160 and city name taseyevo.
+Retrieving city and weather information with index 161 and city name san jose.
+Retrieving city and weather information with index 162 and city name lorengau.
+Retrieving city and weather information with index 163 and city name vanimo.
+Retrieving city and weather information with index 164 and city name purwa.
+Retrieving city and weather information with index 165 and city name urengoy.
+Retrieving city and weather information with index 166 and city name walvis bay.
+Retrieving city and weather information with index 167 and city name hargeysa.
+Retrieving city and weather information with index 168 and city name port-gentil.
+Retrieving city and weather information with index 169 and city name dongsheng.
+Retrieving city and weather information with index 170 and city name ipixuna.
+Retrieving city and weather information with index 171 and city name banda aceh.
+Retrieving city and weather information with index 172 and city name cockburn town.
+Retrieving city and weather information with index 173 and city name noyabrsk.
+Retrieving city and weather information with index 174 and city name skjervoy.
+Retrieving city and weather information with index 175 and city name tilichiki.
+Retrieving city and weather information with index 176 and city name port hardy.
+Retrieving city and weather information with index 177 and city name tinskoy.
+Retrieving city and weather information with index 178 and city name jinchang.
+Retrieving city and weather information with index 179 and city name birjand.
+Retrieving city and weather information with index 180 and city name andenes.
+Missing field or result... skipping.
+Retrieving city and weather information with index 181 and city name honningsvag.
+Retrieving city and weather information with index 182 and city name eureka.
+Retrieving city and weather information with index 183 and city name tsihombe.
+Missing field or result... skipping.
+Retrieving city and weather information with index 184 and city name candido mendes.
+Retrieving city and weather information with index 185 and city name yarmouth.
+Retrieving city and weather information with index 186 and city name hofn.
+Retrieving city and weather information with index 187 and city name falam.
+Retrieving city and weather information with index 188 and city name karamay.
+Missing field or result... skipping.
+Retrieving city and weather information with index 189 and city name bethel.
+Retrieving city and weather information with index 190 and city name high rock.
+Retrieving city and weather information with index 191 and city name collie.
+Retrieving city and weather information with index 192 and city name nome.
+Retrieving city and weather information with index 193 and city name chokurdakh.
+Retrieving city and weather information with index 194 and city name upernavik.
+Retrieving city and weather information with index 195 and city name selenginsk.
+Retrieving city and weather information with index 196 and city name east london.
+Retrieving city and weather information with index 197 and city name urumqi.
+Missing field or result... skipping.
+Retrieving city and weather information with index 198 and city name kavieng.
+Retrieving city and weather information with index 199 and city name tazovskiy.
+Retrieving city and weather information with index 200 and city name bengkulu.
+Missing field or result... skipping.
+Retrieving city and weather information with index 201 and city name reo.
+Retrieving city and weather information with index 202 and city name jining.
+Retrieving city and weather information with index 203 and city name catia la mar.
+Retrieving city and weather information with index 204 and city name kuching.
+Retrieving city and weather information with index 205 and city name asau.
+Missing field or result... skipping.
+Retrieving city and weather information with index 206 and city name ekuvukeni.
+Retrieving city and weather information with index 207 and city name alta floresta.
+Retrieving city and weather information with index 208 and city name buchanan.
+Retrieving city and weather information with index 209 and city name thompson.
+Retrieving city and weather information with index 210 and city name vila velha.
+Retrieving city and weather information with index 211 and city name kurumkan.
+Retrieving city and weather information with index 212 and city name bardiyah.
+Missing field or result... skipping.
+Retrieving city and weather information with index 213 and city name progreso.
+Retrieving city and weather information with index 214 and city name geraldton.
+Retrieving city and weather information with index 215 and city name prince rupert.
+Retrieving city and weather information with index 216 and city name vallee-jonction.
+Missing field or result... skipping.
+Retrieving city and weather information with index 217 and city name amderma.
+Missing field or result... skipping.
+Retrieving city and weather information with index 218 and city name kutum.
+Retrieving city and weather information with index 219 and city name tanggu.
+Missing field or result... skipping.
+Retrieving city and weather information with index 220 and city name cernesti.
+Retrieving city and weather information with index 221 and city name tuktoyaktuk.
+Retrieving city and weather information with index 222 and city name doha.
+Retrieving city and weather information with index 223 and city name son la.
+Retrieving city and weather information with index 224 and city name san quintin.
+Retrieving city and weather information with index 225 and city name cayenne.
+Retrieving city and weather information with index 226 and city name lavrentiya.
+Retrieving city and weather information with index 227 and city name boissevain.
+Retrieving city and weather information with index 228 and city name karratha.
+Retrieving city and weather information with index 229 and city name taoudenni.
+Retrieving city and weather information with index 230 and city name warqla.
+Missing field or result... skipping.
+Retrieving city and weather information with index 231 and city name chuy.
+Retrieving city and weather information with index 232 and city name trabzon.
+Retrieving city and weather information with index 233 and city name kuragino.
+Retrieving city and weather information with index 234 and city name kodiak.
+Retrieving city and weather information with index 235 and city name victoria.
+Retrieving city and weather information with index 236 and city name ketchikan.
+Retrieving city and weather information with index 237 and city name presque isle.
+Retrieving city and weather information with index 238 and city name mana.
+Retrieving city and weather information with index 239 and city name barentsburg.
+Missing field or result... skipping.
+Retrieving city and weather information with index 240 and city name fortuna.
+Retrieving city and weather information with index 241 and city name ostrovnoy.
+Retrieving city and weather information with index 242 and city name zhigansk.
+Retrieving city and weather information with index 243 and city name codrington.
+Retrieving city and weather information with index 244 and city name sisophon.
+Retrieving city and weather information with index 245 and city name pueblo nuevo.
+Retrieving city and weather information with index 246 and city name luanda.
+Retrieving city and weather information with index 247 and city name carutapera.
+Retrieving city and weather information with index 248 and city name sioux lookout.
+Retrieving city and weather information with index 249 and city name camacha.
+Retrieving city and weather information with index 250 and city name moron.
+Retrieving city and weather information with index 251 and city name vuktyl.
+Retrieving city and weather information with index 252 and city name batemans bay.
+Retrieving city and weather information with index 253 and city name dicabisagan.
+Retrieving city and weather information with index 254 and city name vagay.
+Retrieving city and weather information with index 255 and city name san carlos.
+Retrieving city and weather information with index 256 and city name san borja.
+Retrieving city and weather information with index 257 and city name morant bay.
+Retrieving city and weather information with index 258 and city name damietta.
+Retrieving city and weather information with index 259 and city name buin.
+Retrieving city and weather information with index 260 and city name ondangwa.
+Retrieving city and weather information with index 261 and city name goderich.
+Retrieving city and weather information with index 262 and city name quimper.
+Retrieving city and weather information with index 263 and city name tynda.
+Retrieving city and weather information with index 264 and city name hare bay.
+Retrieving city and weather information with index 265 and city name hasaki.
+Retrieving city and weather information with index 266 and city name namatanai.
+Retrieving city and weather information with index 267 and city name viligili.
+Missing field or result... skipping.
+Retrieving city and weather information with index 268 and city name husavik.
+Retrieving city and weather information with index 269 and city name san patricio.
+Retrieving city and weather information with index 270 and city name kabare.
+Retrieving city and weather information with index 271 and city name bogorodskoye.
+Retrieving city and weather information with index 272 and city name igarka.
+Retrieving city and weather information with index 273 and city name seoul.
+Retrieving city and weather information with index 274 and city name the valley.
+Retrieving city and weather information with index 275 and city name ferrol.
+Retrieving city and weather information with index 276 and city name sao filipe.
+Retrieving city and weather information with index 277 and city name waipawa.
+Retrieving city and weather information with index 278 and city name jalu.
+Retrieving city and weather information with index 279 and city name montecristo.
+Retrieving city and weather information with index 280 and city name garowe.
+Retrieving city and weather information with index 281 and city name rungata.
+Missing field or result... skipping.
+Retrieving city and weather information with index 282 and city name gornyy.
+Retrieving city and weather information with index 283 and city name kautokeino.
+Retrieving city and weather information with index 284 and city name laguna.
+Retrieving city and weather information with index 285 and city name mitsamiouli.
+Retrieving city and weather information with index 286 and city name bulgan.
+Retrieving city and weather information with index 287 and city name khasan.
+Retrieving city and weather information with index 288 and city name la palma.
+Retrieving city and weather information with index 289 and city name los llanos de aridane.
+Retrieving city and weather information with index 290 and city name west wendover.
+Retrieving city and weather information with index 291 and city name najran.
+Retrieving city and weather information with index 292 and city name mooi river.
+Missing field or result... skipping.
+Retrieving city and weather information with index 293 and city name shingu.
+Retrieving city and weather information with index 294 and city name mys shmidta.
+Missing field or result... skipping.
+Retrieving city and weather information with index 295 and city name baykit.
+Retrieving city and weather information with index 296 and city name yangjiang.
+Retrieving city and weather information with index 297 and city name laizhou.
+Retrieving city and weather information with index 298 and city name yuzhno-yeniseyskiy.
+Missing field or result... skipping.
+Retrieving city and weather information with index 299 and city name ballinrobe.
+Retrieving city and weather information with index 300 and city name kununurra.
+Retrieving city and weather information with index 301 and city name severo-yeniseyskiy.
+Retrieving city and weather information with index 302 and city name saskylakh.
+Retrieving city and weather information with index 303 and city name markova.
+Retrieving city and weather information with index 304 and city name torbay.
+Retrieving city and weather information with index 305 and city name comodoro rivadavia.
+Retrieving city and weather information with index 306 and city name requena.
+Retrieving city and weather information with index 307 and city name fairview.
+Retrieving city and weather information with index 308 and city name ialibu.
+Retrieving city and weather information with index 309 and city name vila do maio.
+Retrieving city and weather information with index 310 and city name eyl.
+Retrieving city and weather information with index 311 and city name westlock.
+Retrieving city and weather information with index 312 and city name klaksvik.
+Retrieving city and weather information with index 313 and city name belmonte.
+Retrieving city and weather information with index 314 and city name kirakira.
+Retrieving city and weather information with index 315 and city name iqaluit.
+Retrieving city and weather information with index 316 and city name corner brook.
+Retrieving city and weather information with index 317 and city name saleaula.
+Missing field or result... skipping.
+Retrieving city and weather information with index 318 and city name xichang.
+Retrieving city and weather information with index 319 and city name port lincoln.
+Retrieving city and weather information with index 320 and city name puerto carreno.
+Retrieving city and weather information with index 321 and city name cheney.
+Retrieving city and weather information with index 322 and city name isangel.
+Retrieving city and weather information with index 323 and city name inderborskiy.
+Missing field or result... skipping.
+Retrieving city and weather information with index 324 and city name sisimiut.
+Retrieving city and weather information with index 325 and city name bukachacha.
+Retrieving city and weather information with index 326 and city name muscat.
+Retrieving city and weather information with index 327 and city name bilibino.
+Retrieving city and weather information with index 328 and city name lazaro cardenas.
+Retrieving city and weather information with index 329 and city name buraydah.
+Retrieving city and weather information with index 330 and city name severo-kurilsk.
+Retrieving city and weather information with index 331 and city name sentyabrskiy.
+Missing field or result... skipping.
+Retrieving city and weather information with index 332 and city name pagudpud.
+Retrieving city and weather information with index 333 and city name kadoma.
+Retrieving city and weather information with index 334 and city name tevaitoa.
+Retrieving city and weather information with index 335 and city name dehloran.
+Retrieving city and weather information with index 336 and city name nador.
+Retrieving city and weather information with index 337 and city name marau.
+Retrieving city and weather information with index 338 and city name korsakov.
+Retrieving city and weather information with index 339 and city name petrov val.
+Retrieving city and weather information with index 340 and city name muroto.
+Retrieving city and weather information with index 341 and city name drumnadrochit.
+Retrieving city and weather information with index 342 and city name campos sales.
+Retrieving city and weather information with index 343 and city name coutances.
+Retrieving city and weather information with index 344 and city name tabou.
+Retrieving city and weather information with index 345 and city name hambantota.
+Retrieving city and weather information with index 346 and city name fort nelson.
+Retrieving city and weather information with index 347 and city name tonosho.
+Retrieving city and weather information with index 348 and city name iztapa.
+Retrieving city and weather information with index 349 and city name kazalinsk.
+Missing field or result... skipping.
+Retrieving city and weather information with index 350 and city name bayanday.
+Retrieving city and weather information with index 351 and city name mehamn.
+Retrieving city and weather information with index 352 and city name vangaindrano.
+Retrieving city and weather information with index 353 and city name jiayuguan.
+Retrieving city and weather information with index 354 and city name powell river.
+Retrieving city and weather information with index 355 and city name pobe.
+Retrieving city and weather information with index 356 and city name bereda.
+Retrieving city and weather information with index 357 and city name cascais.
+Retrieving city and weather information with index 358 and city name pemba.
+Retrieving city and weather information with index 359 and city name tucuman.
+Retrieving city and weather information with index 360 and city name mareeba.
+Retrieving city and weather information with index 361 and city name adendron.
+Retrieving city and weather information with index 362 and city name czluchow.
+Retrieving city and weather information with index 363 and city name ugoofaaru.
+Retrieving city and weather information with index 364 and city name batie.
+Retrieving city and weather information with index 365 and city name gangotri.
+Missing field or result... skipping.
+Retrieving city and weather information with index 366 and city name port hedland.
+Retrieving city and weather information with index 367 and city name ketrzyn.
+Retrieving city and weather information with index 368 and city name paita.
+Retrieving city and weather information with index 369 and city name jutai.
+Retrieving city and weather information with index 370 and city name xinzhou.
+Retrieving city and weather information with index 371 and city name dingle.
+Retrieving city and weather information with index 372 and city name srednekolymsk.
+Retrieving city and weather information with index 373 and city name tahta.
+Missing field or result... skipping.
+Retrieving city and weather information with index 374 and city name sept-iles.
+Retrieving city and weather information with index 375 and city name broken hill.
+Retrieving city and weather information with index 376 and city name assiniboia.
+Retrieving city and weather information with index 377 and city name rocha.
+Retrieving city and weather information with index 378 and city name oranjestad.
+Retrieving city and weather information with index 379 and city name balimo.
+Missing field or result... skipping.
+Retrieving city and weather information with index 380 and city name tarudant.
+Missing field or result... skipping.
+Retrieving city and weather information with index 381 and city name vaitupu.
+Missing field or result... skipping.
+Retrieving city and weather information with index 382 and city name aklavik.
+Retrieving city and weather information with index 383 and city name khani.
+Retrieving city and weather information with index 384 and city name touros.
+Retrieving city and weather information with index 385 and city name huarmey.
+Retrieving city and weather information with index 386 and city name krasnyy luch.
+Retrieving city and weather information with index 387 and city name sukhobezvodnoye.
+Retrieving city and weather information with index 388 and city name visnes.
+Retrieving city and weather information with index 389 and city name tadine.
+Retrieving city and weather information with index 390 and city name burica.
+Missing field or result... skipping.
+Retrieving city and weather information with index 391 and city name esperance.
+Retrieving city and weather information with index 392 and city name poum.
+Retrieving city and weather information with index 393 and city name vila franca do campo.
+Retrieving city and weather information with index 394 and city name ilheus.
+Retrieving city and weather information with index 395 and city name hualmay.
+Retrieving city and weather information with index 396 and city name kampong thum.
+Retrieving city and weather information with index 397 and city name santa eulalia del rio.
+Missing field or result... skipping.
+Retrieving city and weather information with index 398 and city name ankara.
+Retrieving city and weather information with index 399 and city name port augusta.
+Retrieving city and weather information with index 400 and city name honiara.
+Retrieving city and weather information with index 401 and city name carnarvon.
+Retrieving city and weather information with index 402 and city name gigmoto.
+Retrieving city and weather information with index 403 and city name sibolga.
+Retrieving city and weather information with index 404 and city name kagadi.
+Retrieving city and weather information with index 405 and city name kieta.
+Retrieving city and weather information with index 406 and city name strezhevoy.
+Retrieving city and weather information with index 407 and city name fare.
+Retrieving city and weather information with index 408 and city name huntington.
+Retrieving city and weather information with index 409 and city name jhabua.
+Retrieving city and weather information with index 410 and city name imbituba.
+Retrieving city and weather information with index 411 and city name ciudad bolivar.
+Retrieving city and weather information with index 412 and city name angoche.
+Retrieving city and weather information with index 413 and city name asayita.
+Missing field or result... skipping.
+Retrieving city and weather information with index 414 and city name dalbandin.
+Retrieving city and weather information with index 415 and city name olga.
+Retrieving city and weather information with index 416 and city name fernley.
+Retrieving city and weather information with index 417 and city name mounana.
+Retrieving city and weather information with index 418 and city name matadi.
+Retrieving city and weather information with index 419 and city name mangrol.
+Retrieving city and weather information with index 420 and city name bollnas.
+Retrieving city and weather information with index 421 and city name college.
+Retrieving city and weather information with index 422 and city name izumo.
+Retrieving city and weather information with index 423 and city name masvingo.
+Retrieving city and weather information with index 424 and city name mercedes.
+Retrieving city and weather information with index 425 and city name koumac.
+Retrieving city and weather information with index 426 and city name mathbaria.
+Retrieving city and weather information with index 427 and city name nokaneng.
+Retrieving city and weather information with index 428 and city name meybod.
+Retrieving city and weather information with index 429 and city name aripuana.
+Retrieving city and weather information with index 430 and city name mrirt.
+Missing field or result... skipping.
+Retrieving city and weather information with index 431 and city name bayburt.
+Retrieving city and weather information with index 432 and city name longyearbyen.
+Retrieving city and weather information with index 433 and city name sambava.
+Retrieving city and weather information with index 434 and city name alofi.
+Retrieving city and weather information with index 435 and city name tumannyy.
+Missing field or result... skipping.
+Retrieving city and weather information with index 436 and city name vostok.
+Retrieving city and weather information with index 437 and city name phatthalung.
+Retrieving city and weather information with index 438 and city name amontada.
+Retrieving city and weather information with index 439 and city name veraval.
+Retrieving city and weather information with index 440 and city name maceio.
+Retrieving city and weather information with index 441 and city name reconquista.
+Retrieving city and weather information with index 442 and city name cidreira.
+Retrieving city and weather information with index 443 and city name kiama.
+Retrieving city and weather information with index 444 and city name tomigusuku.
+Retrieving city and weather information with index 445 and city name quesnel.
+Retrieving city and weather information with index 446 and city name vardo.
+Retrieving city and weather information with index 447 and city name salym.
+Retrieving city and weather information with index 448 and city name san policarpo.
+Retrieving city and weather information with index 449 and city name pokanayevka.
+Missing field or result... skipping.
+Retrieving city and weather information with index 450 and city name show low.
+Retrieving city and weather information with index 451 and city name harper.
+Retrieving city and weather information with index 452 and city name sao joao da barra.
+Retrieving city and weather information with index 453 and city name mocuba.
+Retrieving city and weather information with index 454 and city name tobol.
+Retrieving city and weather information with index 455 and city name macklin.
+Retrieving city and weather information with index 456 and city name muravlenko.
+Retrieving city and weather information with index 457 and city name coihaique.
+Retrieving city and weather information with index 458 and city name naze.
+Retrieving city and weather information with index 459 and city name suna.
+Retrieving city and weather information with index 460 and city name vestmanna.
+Retrieving city and weather information with index 461 and city name warrnambool.
+Retrieving city and weather information with index 462 and city name rutana.
+Retrieving city and weather information with index 463 and city name kvitok.
+Retrieving city and weather information with index 464 and city name tidore.
+Missing field or result... skipping.
+Retrieving city and weather information with index 465 and city name ibotirama.
+Retrieving city and weather information with index 466 and city name uruacu.
+Retrieving city and weather information with index 467 and city name dillon.
+Retrieving city and weather information with index 468 and city name chagda.
+Missing field or result... skipping.
+Retrieving city and weather information with index 469 and city name sinjar.
+Retrieving city and weather information with index 470 and city name along.
+Retrieving city and weather information with index 471 and city name kaeo.
+Retrieving city and weather information with index 472 and city name rancho palos verdes.
+Retrieving city and weather information with index 473 and city name aquiraz.
+Retrieving city and weather information with index 474 and city name san jeronimo.
+Retrieving city and weather information with index 475 and city name troyes.
+Retrieving city and weather information with index 476 and city name haines junction.
+Retrieving city and weather information with index 477 and city name wulanhaote.
+Missing field or result... skipping.
+Retrieving city and weather information with index 478 and city name astoria.
+Retrieving city and weather information with index 479 and city name greenville.
+Retrieving city and weather information with index 480 and city name leiyang.
+Retrieving city and weather information with index 481 and city name talnakh.
+Retrieving city and weather information with index 482 and city name san cristobal.
+Retrieving city and weather information with index 483 and city name ewa beach.
+Retrieving city and weather information with index 484 and city name hay river.
+Retrieving city and weather information with index 485 and city name clyde river.
+Retrieving city and weather information with index 486 and city name phek.
+Retrieving city and weather information with index 487 and city name bocas del toro.
+Retrieving city and weather information with index 488 and city name maura.
+Retrieving city and weather information with index 489 and city name gimli.
+Retrieving city and weather information with index 490 and city name pierre.
+Retrieving city and weather information with index 491 and city name palu.
+Retrieving city and weather information with index 492 and city name kirkuk.
+Retrieving city and weather information with index 493 and city name arman.
+Retrieving city and weather information with index 494 and city name santa isabel do rio negro.
+Retrieving city and weather information with index 495 and city name beyneu.
+Retrieving city and weather information with index 496 and city name fez.
+Retrieving city and weather information with index 497 and city name faya.
+Retrieving city and weather information with index 498 and city name granada.
+Retrieving city and weather information with index 499 and city name karia.
+Retrieving city and weather information with index 500 and city name tromso.
+Retrieving city and weather information with index 501 and city name turbat.
+Retrieving city and weather information with index 502 and city name nouadhibou.
+Retrieving city and weather information with index 503 and city name san sebastian.
+Retrieving city and weather information with index 504 and city name le port.
+Retrieving city and weather information with index 505 and city name conceicao do araguaia.
+Retrieving city and weather information with index 506 and city name svetlopolyansk.
+Retrieving city and weather information with index 507 and city name richards bay.
+Retrieving city and weather information with index 508 and city name mackenzie.
+Retrieving city and weather information with index 509 and city name reyes.
+Retrieving city and weather information with index 510 and city name hernani.
+Retrieving city and weather information with index 511 and city name otane.
+Retrieving city and weather information with index 512 and city name springbok.
+Retrieving city and weather information with index 513 and city name oranjemund.
+Retrieving city and weather information with index 514 and city name bomet.
+Retrieving city and weather information with index 515 and city name aginskoye.
+Retrieving city and weather information with index 516 and city name la ronge.
+Retrieving city and weather information with index 517 and city name portland.
+Retrieving city and weather information with index 518 and city name havre-saint-pierre.
+Retrieving city and weather information with index 519 and city name teguise.
+Retrieving city and weather information with index 520 and city name meulaboh.
+Retrieving city and weather information with index 521 and city name sterling.
+Retrieving city and weather information with index 522 and city name kenai.
+Retrieving city and weather information with index 523 and city name cabanas.
+Retrieving city and weather information with index 524 and city name yerbogachen.
+Retrieving city and weather information with index 525 and city name banyo.
+Retrieving city and weather information with index 526 and city name merauke.
+Retrieving city and weather information with index 527 and city name bandarbeyla.
+Retrieving city and weather information with index 528 and city name ust-kamchatsk.
+Missing field or result... skipping.
+Retrieving city and weather information with index 529 and city name jabinyanah.
+Retrieving city and weather information with index 530 and city name tasbuget.
+Missing field or result... skipping.
+Retrieving city and weather information with index 531 and city name labuhan.
+Retrieving city and weather information with index 532 and city name ladybrand.
+Retrieving city and weather information with index 533 and city name marzuq.
+Retrieving city and weather information with index 534 and city name daxian.
+Missing field or result... skipping.
+Retrieving city and weather information with index 535 and city name kandrian.
+Retrieving city and weather information with index 536 and city name chapayevka.
+Retrieving city and weather information with index 537 and city name general pico.
+Retrieving city and weather information with index 538 and city name nantucket.
+Retrieving city and weather information with index 539 and city name irece.
+Retrieving city and weather information with index 540 and city name bo rai.
+Retrieving city and weather information with index 541 and city name sivas.
+Retrieving city and weather information with index 542 and city name provideniya.
+Retrieving city and weather information with index 543 and city name dubbo.
+Retrieving city and weather information with index 544 and city name kavaratti.
+Retrieving city and weather information with index 545 and city name alice springs.
+Retrieving city and weather information with index 546 and city name pampa.
+Retrieving city and weather information with index 547 and city name vilyuysk.
+Retrieving city and weather information with index 548 and city name namibe.
+Retrieving city and weather information with index 549 and city name pitimbu.
+Retrieving city and weather information with index 550 and city name lokosovo.
+Retrieving city and weather information with index 551 and city name luau.
+Retrieving city and weather information with index 552 and city name lipari.
+Retrieving city and weather information with index 553 and city name meadow lake.
+Retrieving city and weather information with index 554 and city name daru.
+Retrieving city and weather information with index 555 and city name tezu.
+Retrieving city and weather information with index 556 and city name kasama.
+Retrieving city and weather information with index 557 and city name itaituba.
+Retrieving city and weather information with index 558 and city name tocopilla.
+Retrieving city and weather information with index 559 and city name shenjiamen.
+Retrieving city and weather information with index 560 and city name bambey.
+Retrieving city and weather information with index 561 and city name bathsheba.
+Retrieving city and weather information with index 562 and city name mahbubabad.
+Retrieving city and weather information with index 563 and city name samarinda.
+Retrieving city and weather information with index 564 and city name oswego.
+Retrieving city and weather information with index 565 and city name puerto escondido.
+Retrieving city and weather information with index 566 and city name westport.
+Retrieving city and weather information with index 567 and city name nioro.
+Retrieving city and weather information with index 568 and city name zeya.
+Retrieving city and weather information with index 569 and city name petropavlovsk-kamchatskiy.
+Retrieving city and weather information with index 570 and city name canchungo.
+Retrieving city and weather information with index 571 and city name tonj.
+Missing field or result... skipping.
+Retrieving city and weather information with index 572 and city name ndele.
+Missing field or result... skipping.
+Retrieving city and weather information with index 573 and city name mora.
+Retrieving city and weather information with index 574 and city name samarai.
+Retrieving city and weather information with index 575 and city name immokalee.
+Retrieving city and weather information with index 576 and city name yingcheng.
+Retrieving city and weather information with index 577 and city name chimbote.
+Retrieving city and weather information with index 578 and city name hamilton.
+Retrieving city and weather information with index 579 and city name niimi.
+Retrieving city and weather information with index 580 and city name wetaskiwin.
+Retrieving city and weather information with index 581 and city name gurupa.
+Missing field or result... skipping.
+Retrieving city and weather information with index 582 and city name lolua.
+Missing field or result... skipping.
+Retrieving city and weather information with index 583 and city name high level.
+Retrieving city and weather information with index 584 and city name lagoa.
+Retrieving city and weather information with index 585 and city name port macquarie.
+Retrieving city and weather information with index 586 and city name ust-kuyga.
